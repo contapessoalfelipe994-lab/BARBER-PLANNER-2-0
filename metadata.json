@@ -1,0 +1,7 @@
+{
+  "name": "BARBEIRO PLANER",
+  "description": "Premium management system for barbershops with finance tracking, queue management, and WhatsApp automation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
